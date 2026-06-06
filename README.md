@@ -1,1 +1,1 @@
-#Esta web es una prueba a realizar para que, en un futuro, tener algo útil que pueda utilizar.
+Esta web es una prueba que realizo para poder contar con algo útil en el futuro.
